@@ -7,7 +7,7 @@ Splunk presented a workshop to the public, highlighting the power of their platf
 1. **Customer Locations Search:** Identified customer IPs and geolocated them to cities outside the United States.
 2. **Lost Revenue Search:** Calculated lost revenue from failed purchase attempts.
 3. **Web Browser Failures Search:** Counted and charted web browsers with the most access failures.
-4. **Popular Operating Systems Search:** Listed the top 20 operating systems from access logs.
+4. **Popular Operating Systems Search:** Listed the top 10 operating systems from access logs.
 5. **Web Server Status Codes Search:** Tracked web server status codes over time.
 
 These examples provided just a glimpse of what Splunk has to offer, demonstrating how it can turn data into valuable insights for enhanced decision-making and operational efficiency.
