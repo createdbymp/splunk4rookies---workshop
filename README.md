@@ -26,4 +26,4 @@ Below are a few resources I'll be using to help supplement my journey to learn S
 
 
 
-![Splunk4Rookies - Dashboard](https://github.com/createdbymp/splunk_on_aws/issues/2)
+![Splunk4Rookies - Dashboard](https://github.com/createdbymp/splunk4rookies-workshop/issues)
